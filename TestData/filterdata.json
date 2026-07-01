@@ -1,0 +1,23 @@
+
+[
+    {
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "filter": "az"
+    },
+    {
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "filter": "za"
+    },
+    {
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "filter": "lohi"
+    },
+    {
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "filter": "hilo"
+    }
+]
